@@ -1,0 +1,26 @@
+
+body {
+  background-color: rgb(219, 162, 226);
+}
+
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+/* Header/Logo Title */
+h1 {
+padding: 60px;
+text-align: center;
+background: #521485;
+color: white;
+font-size: 30px;
+}
+
+img {
+width: auto ;
+max-width: 100% ;
+height: auto ;
+}
